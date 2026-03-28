@@ -47,13 +47,18 @@ Se implementó una pila para guardar las acciones realizadas y poder deshacer la
 
 ## Mejoras comparando el reto 1 y 2
 
-* Mejor organización de los datos
-* Uso de estructuras más cercanas a aplicaciones reales
-* Implementación de lógica FIFO para pedidos
-* Posibilidad de deshacer acciones
-* Código más alineado con estructuras de datos vistas en clase
+- Mejor organización de los datos
+- Uso de estructuras más cercanas a aplicaciones reales
+- Implementación de lógica FIFO para pedidos
+- Posibilidad de deshacer acciones
+- Código más alineado con estructuras de datos vistas en clase
 
+---
 
-## 👨‍💻 Autor
+## Capturas
 
-Proyecto desarrollado como parte de ejercicios de estructuras de datos en Python.
+![Imagen 1](https://github.com/4lanPz/TAREA15M1_CETCIS/blob/main/captura%201.jpg)
+
+![Imagen 2](https://github.com/4lanPz/TAREA15M1_CETCIS/blob/main/captura%202.jpg)
+
+![Imagen 3](https://github.com/4lanPz/TAREA15M1_CETCIS/blob/main/captura%203.jpg)
